@@ -1,0 +1,15 @@
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\Fecade.exe
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\Fecade.deps.json
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\Fecade.runtimeconfig.json
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\Fecade.runtimeconfig.dev.json
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\Fecade.dll
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\ref\Fecade.dll
+C:\DesignPatterns\Fecade\bin\Debug\net5.0\Fecade.pdb
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.AssemblyInfoInputs.cache
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.AssemblyInfo.cs
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.dll
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\ref\Fecade.dll
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.pdb
+C:\DesignPatterns\Fecade\obj\Debug\net5.0\Fecade.genruntimeconfig.cache
